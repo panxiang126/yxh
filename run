@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/splitExcel
+cd ~
 
 python splitExcel.py
 
